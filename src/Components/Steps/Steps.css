@@ -1,0 +1,92 @@
+body {
+    background: #3D3D3D;
+    display: flex;
+    justify-content: center;
+}
+
+.steps {
+    background: #fff;
+    width: 1440px;
+    height: 870px;
+}
+
+.navbar {
+    text-align: right;
+    margin-right: 77px;
+    font-size: 35px;
+}
+
+.nav {
+    padding-top: 60px;
+}
+
+.greeting_4 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.main-txt_4 {
+    font-size: 22px;
+    height: 289px;
+    width: 500px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.txt-area_4 {
+    margin-left: 138px;
+    margin-top: 73px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.process_4 {
+    margin-right: 100px;
+    font-size: 20px;
+    justify-content: space-evenly;
+    line-height: 70px;
+    width: 500px;
+    margin-top: 25px;
+}
+
+.bottom_4 {
+    display: flex;
+    margin-top: 120px;
+}
+
+.link_4 {
+    margin-right: 30px;
+    opacity: 50%;
+    cursor: pointer;
+}
+
+.link-4 {
+    cursor: pointer;
+}
+
+.step_1 {
+    display: flex;
+    padding: 7px;
+}
+
+.step_1_a,
+.step_5_a {
+    margin-left: 50px;
+}
+
+.step_1_b {
+    margin-left: 30px;
+}
+
+.step_1_c {
+    margin-left: 30px;
+}
+
+.step_5 {
+    display: flex;
+    opacity: 25%;
+}
+
+.step_5_b {
+    margin-left: 90px;
+}

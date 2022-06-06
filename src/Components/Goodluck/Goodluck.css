@@ -1,0 +1,51 @@
+body {
+    background: #3D3D3D;
+    display: flex;
+    justify-content: center;
+}
+
+.goodluck {
+    background: #fff;
+    width: 1440px;
+    height: 810px;
+    padding-top: 60px;
+}
+
+.navbar {
+    text-align: right;
+    margin-right: 77px;
+    font-size: 35px;
+}
+
+.greet_7 {
+    font-size: 80px;
+    font-weight: bold;
+
+}
+
+.main_txt_7 {
+    font-size: 22px;
+    height: 108px;
+    width: 480px;
+    margin-top: 45px;
+}
+
+.txt_area_7 {
+    margin-left: 140px;
+    margin-top: 132px;
+}
+
+
+.bottom_7 {
+    width: 840px;
+    display: flex;
+    margin-top: 157px;
+    font-size: 22px;
+    margin-top: 202px;
+}
+
+.link_7 {
+    opacity: 50%;
+    margin-right: 30px;
+    cursor: pointer;
+}

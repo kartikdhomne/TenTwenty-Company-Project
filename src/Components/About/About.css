@@ -1,0 +1,86 @@
+body {
+    background: #3D3D3D;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.about {
+    background: #fff;
+    width: 1440px;
+    height: 810px;
+    font-family: sans-serif;
+}
+
+.navbar {
+    text-align: right;
+    margin-right: 77px;
+    font-size: 35px;
+    padding-top: 30px;
+
+}
+
+.img1 {
+    height: 465px;
+    width: 698px;
+    margin-left: 900px;
+    margin-top: 71px;
+}
+
+.img2 {
+    height: 505px;
+    width: 237px;
+    margin-left: 815px;
+    margin-top: -630px;
+}
+
+.img3 {
+    height: 505px;
+    width: 237px;
+    margin-left: 815px;
+    margin-top: 100px;
+}
+
+.img4 {
+    height: 276px;
+    width: 233px;
+    margin-left: 1207px;
+    margin-top: -600px;
+}
+
+.txt-area_2 {
+    margin-left: 145px;
+    margin-top: -700px;
+}
+
+.greet_2 {
+    height: 152px;
+    width: 580px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.main-txt_2 {
+    height: 600px;
+    width: 700px;
+    font-size: 20px;
+    height: 363px;
+    margin-top: 55px;
+    line-height: 30px;
+}
+
+.bottom_2 {
+    margin-top: 125px;
+    display: flex;
+    font-size: 22px;
+}
+
+.link_2 {
+    opacity: 50%;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.link-2 {
+    cursor: pointer;
+}

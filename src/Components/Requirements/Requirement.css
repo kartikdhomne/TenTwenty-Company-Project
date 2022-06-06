@@ -1,0 +1,79 @@
+body {
+    background: #3D3D3D;
+    display: flex;
+    justify-content: center;
+
+}
+
+.requirement {
+    background: #fff;
+    width: 1440px;
+    height: 810px;
+    padding-top: 60px;
+}
+
+.navbar {
+    text-align: right;
+    margin-right: 77px;
+    font-size: 35px;
+}
+
+.greet_6 {
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+
+.txt_area_6 {
+    margin-left: 140px;
+    margin-top: 15px;
+}
+
+.main_txt_6 {
+    height: 380px;
+    width: 510px;
+    margin-top: 20px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+li {
+    margin-left: 25px;
+}
+
+.req_6 {
+    height: 280px;
+    width: 490px;
+    margin-right: 230px;
+    margin-top: 65px;
+    line-height: 25px;
+    display: grid;
+}
+
+.texts_6 {
+    opacity: 35%;
+}
+
+.text_field_6 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 17px;
+}
+
+.bottom_6 {
+    display: flex;
+    width: 300px;
+    height: 36px;
+    font-size: 22px;
+}
+
+.link_6 {
+    opacity: 50%;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+.link-6 {
+    cursor: pointer;
+}
