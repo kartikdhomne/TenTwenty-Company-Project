@@ -17,21 +17,23 @@ export default function About() {
                 <h2 className='nav_2'>tentwenty</h2>
             </div>
 
-            <div className="img1">
-                <img src={image200} alt="img" />
-            </div>
 
-            <div className="img2">
-                <img src={image201} alt="img" />
-            </div>
+                <div className="img1">
+                    <img src={image200} alt="img" />
+                </div>
 
-            <div className="img3">
-                <img src={image202} alt="img" />
-            </div>
+                <div className="img2">
+                    <img src={image201} alt="img" />
+                </div>
 
-            <div className="img4">
-                <img src={image203} alt="img" />
-            </div>
+                <div className="img3">
+                    <img src={image202} alt="img" />
+                </div>
+
+                <div className="img4">
+                    <img src={image203} alt="img" />
+                </div>
+
 
             <div className="txt-area_2">
 
@@ -58,7 +60,7 @@ export default function About() {
 
                         <div className="bottom_2">
                             <h4 className='link_2' onClick={() => navigate('/Intro')}><u>Previous</u></h4>
-                            <h4 className='link-2' onClick={() => navigate('/Purpose')}><u>See the tentwenty showreel :)</u></h4>
+                            <h4 className='link-2'><u>See the tentwenty showreel :)</u></h4>
                         </div>
 
                     </div>

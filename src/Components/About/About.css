@@ -8,7 +8,7 @@ body {
 .about {
     background: #fff;
     width: 1440px;
-    height: 810px;
+    height: 870px;
     font-family: sans-serif;
 }
 
@@ -20,18 +20,19 @@ body {
 
 }
 
+
 .img1 {
     height: 465px;
     width: 698px;
     margin-left: 900px;
-    margin-top: 71px;
+    margin-top: 121px;
 }
 
 .img2 {
     height: 505px;
     width: 237px;
     margin-left: 815px;
-    margin-top: -630px;
+    margin-top: -680px;
 }
 
 .img3 {
@@ -45,8 +46,9 @@ body {
     height: 276px;
     width: 233px;
     margin-left: 1207px;
-    margin-top: -600px;
+    margin-top: -580px;
 }
+
 
 .txt-area_2 {
     margin-left: 145px;
@@ -70,7 +72,7 @@ body {
 }
 
 .bottom_2 {
-    margin-top: 125px;
+    margin-top: 95px;
     display: flex;
     font-size: 22px;
 }
@@ -78,9 +80,5 @@ body {
 .link_2 {
     opacity: 50%;
     margin-right: 30px;
-    cursor: pointer;
-}
-
-.link-2 {
     cursor: pointer;
 }

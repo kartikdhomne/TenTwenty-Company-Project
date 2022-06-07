@@ -32,7 +32,7 @@ export default function Assesment() {
 
           <div className="mid_5">
             <h4>I'm competent</h4>
-            <h1><u>let's get started</u></h1>
+            <h1 className='big'><u>let's get started</u></h1>
           </div>
 
           <div className="days">

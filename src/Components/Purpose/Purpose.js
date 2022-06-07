@@ -28,7 +28,7 @@ export default function Purpose() {
           get in touch with us (email/ call).</div>
 
         <div className="bottom_3">
-          <h4 className='link_3' onClick={() => navigate('/About')}><u>Previous</u></h4>
+          <h4 className='link_3' onClick={() => navigate('/Intro')}><u>Previous</u></h4>
           <h4 className='link-3' onClick={() => navigate('/Steps')}><u>Next Page</u></h4>
         </div>
         

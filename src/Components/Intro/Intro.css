@@ -8,7 +8,7 @@ body {
 .intro {
     background: #fff;
     width: 1440px;
-    height: 810px;
+    height: 870px;
     font-family: sans-serif;
 }
 
@@ -36,7 +36,7 @@ body {
     justify-content: space-between;
     margin-left: 140px;
     font-size: 22px;
-    margin-top: 45px;
+    margin-top: 90px;
 }
 
 .main-txt_1 {
@@ -69,11 +69,6 @@ body {
     line-height: 40px;
 }
 
-.link_1 {
-    opacity: 25%;
-    cursor: pointer;
-}
-
 .img {
     width: 588px;
     height: 559px;
@@ -82,4 +77,13 @@ body {
 
 .text_field_1 {
     text-align: left;
+}
+
+.link-1 {
+    opacity: 25%;
+    cursor: pointer;
+}
+
+.link_1{
+    cursor: pointer;
 }

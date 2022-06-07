@@ -8,7 +8,7 @@ body {
 .purpose {
     background: black;
     width: 1440px;
-    height: 810px;
+    height: 870px;
     color: #fff;
 
 }
@@ -23,6 +23,7 @@ body {
 .img_1 {
     position: absolute;
     left: 362px;
+    opacity: 60%;
 
 }
 

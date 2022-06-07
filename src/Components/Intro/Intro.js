@@ -31,8 +31,8 @@ export default function Intro() {
                     </div>
 
                     <div className="bottom_1">
-                        <h4><u>Let's get started!</u></h4>
-                        <h4 className='link_1' onClick={() => navigate('/About')}><u>A bit more about tentwenty</u></h4>
+                        <h4 className="link_1" onClick={() => navigate('/Purpose')}><u>Let's get started!</u></h4>
+                        <h4 className="link-1" onClick={() => navigate('/About')}><u>A bit more about tentwenty</u></h4>
                     </div>
 
                 </div>
